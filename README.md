@@ -11,5 +11,5 @@ Assurez-vous d'avoir Python installé.
    ```bash
    git clone https://github.com/nehoraipenia-commits/IA-hacking.git
    cd IA-hacking
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    python main.py
