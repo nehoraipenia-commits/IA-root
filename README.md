@@ -10,6 +10,6 @@ Assurez-vous d'avoir Python installé.
 1. **Cloner le projet**
    ```bash
    git clone https://github.com/nehoraipenia-commits/IA-hacking.git
-   cd assistant-IA
+   cd IA-hacking
    pip install -r requirement.txt
    python main.py
